@@ -1,4 +1,5 @@
-clean:
+( AN AMAZING PROJECT)
+clean: 
 	rm -rf public
 
 dependencies:
